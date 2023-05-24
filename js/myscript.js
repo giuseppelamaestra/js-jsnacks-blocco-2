@@ -44,3 +44,8 @@ if(WordLenght(Word1.value, Word2.value)) {
 } else {
     console.log("le parole non sono uguali")
 }
+
+
+/**
+ * 
+ */
